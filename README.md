@@ -1,6 +1,6 @@
 - 👋 Hola, soy @Curso001234
 - 👀 Me interesa el desarrollo Web 
-- 🌱 Aprendiendo todos los días php, js, c#, python, mysql y más  ;) ... 
+- 🌱 Aprendiendo git y más  ;) ... 
 - 💞️ Colaborando con la clase 
 - 📫 Puedes encontrarme en curso001234@gmail.com
 
